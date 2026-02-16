@@ -1,0 +1,109 @@
+body{
+    background-color: antiquewhite;
+}
+
+#corpo{
+        margin-left: 650px;
+        margin-top: 300px;
+
+}
+
+#corp{
+        
+        margin-top: 300px;
+        text-align: center;
+
+}
+
+#body{
+        
+
+        text-align: center;
+
+        
+
+}
+
+.comentario {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 300px;
+  border-radius: 5px;
+  margin: 10px;
+         margin-left: 600px;
+                 margin-top: 10px;
+
+}
+
+.comenta {
+  border: 1px solid #ccc;
+  padding: 5px;
+  width: 600px;
+  border-radius: 5px;
+  
+  margin: 20px;
+         margin-left: 450px;
+                 margin-top: 150px;
+}
+
+#confirmar{
+    border-radius: 8px;
+    width: 200px;
+    padding: 8px;
+    
+}
+
+.corpo{
+    text-align: center;
+}
+
+#lista li{
+          list-style-type: none;
+}
+
+#bta{
+    border-radius: 8px;
+    width: 100px;
+    padding: 8px;
+    
+}
+
+#entrar{
+    border-radius: 8px;
+    width: 100px;
+    padding: 8px;
+    
+}
+
+.gostar{
+    border: none;
+    background-color: antiquewhite;
+    
+}
+
+.desgostar{
+    border: none;
+    background-color: antiquewhite;
+    
+}
+
+#btan{
+    border-radius: 8px;
+    width: 100px;
+    padding: 8px;
+    
+}
+
+#btao{
+    border-radius: 8px;
+    width: 150px;
+    padding: 8px;
+    
+}
+
+input{
+      border-radius: 8px;
+      width: 300px;
+      padding: 10px;
+      ;
+}
